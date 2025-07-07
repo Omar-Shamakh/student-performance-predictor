@@ -1,0 +1,8 @@
+├── README.md
+├── app.py
+├── pipeline.pkl
+├── requirements.txt
+├── notebooks/
+│   └── Student_Performance_Analysis.ipynb  
+└── data/
+    └── student_performance_data.csv  
